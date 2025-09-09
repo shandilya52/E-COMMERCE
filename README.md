@@ -232,7 +232,8 @@ npm run lint      # Run ESLint
 ## 👨‍💻 Author
 
 **SATYA RAJ**
-- GitHub: [](https://github.com/shandilya52/E-COMMERCE)
+- GitHub: [](https://github.com/shandilya52)
 
 ⭐ **Star this repository if you found it helpful!**
+
 
