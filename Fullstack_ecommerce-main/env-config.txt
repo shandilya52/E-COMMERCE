@@ -1,0 +1,14 @@
+# Environment Variables Configuration
+# Copy these to a .env file in the root directory
+
+PORT=8000
+MONGO_URL=mongodb://localhost:27017/ecommerce
+JWT_SECRET=42818c056d3c345f8697654ec69eb98cdc107ca3599ffcd689930e2f460d7139
+
+# Notes:
+# - PORT: The port your backend server will run on
+# - MONGO_URL: Your MongoDB connection string (local or Atlas)
+# - JWT_SECRET: A secret key for JWT token signing (change this to something secure)
+
+
+42818c056d3c345f8697654ec69eb98cdc107ca3599ffcd689930e2f460d7139
